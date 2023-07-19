@@ -6,6 +6,9 @@ Allows for arbitrary files to be read from the underlying server.
 exec counter_strike_arbitrary_file_read.cfg
 ```
 
+## CVE-ID
+[CVE-2023-38312](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38312)
+
 ## HackerOne Report
 https://hackerone.com/reports/1356454
 
